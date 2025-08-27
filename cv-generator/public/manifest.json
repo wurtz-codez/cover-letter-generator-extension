@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "AI Cover Letter Generator",
+  "version": "1.0",
+  "description": "Generate AI-powered cover letters using your resume and job description.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "options_page": "options.html",
+  "permissions": ["storage", "scripting", "activeTab"]
+}
