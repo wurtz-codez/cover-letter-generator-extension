@@ -3,28 +3,28 @@
 ## 🚀 Roadmap
 
 ### Phase 1 – Setup (Week 1)
-- Setup Vite + React project
-- Add TailwindCSS
-- Create manifest.json
-- Test extension loading in Chrome (Hello World popup)
+- [x] Setup Vite + React project
+- [x] Add TailwindCSS
+- [x] Create manifest.json
+- [x] Test extension loading in Chrome (Hello World popup)
 
 ### Phase 2 – Core Features (Week 2)
-- Options Page: Upload & store resume (chrome.storage)
-- Popup Page: Input Job Description
-- AI Integration: Send resume + JD → AI API → return cover letter
+- [ ] Options Page: Upload & store resume (chrome.storage)
+- [ ] Popup Page: Input Job Description
+- [ ] AI Integration: Send resume + JD → AI API → return cover letter
 
 ### Phase 3 – Output & Polishing (Week 3)
-- Download cover letter as PDF/DOCX
-- Copy to clipboard
-- Clean, minimal UI with Tailwind
-- Error handling & validation
+- [ ] Download cover letter as PDF/DOCX
+- [ ] Copy to clipboard
+- [ ] Clean, minimal UI with Tailwind
+- [ ] Error handling & validation
 
 ### Phase 4 – Enhancements (Future)
-- Scrape job descriptions directly from portals
-- Multiple cover letter styles
-- User accounts + backend (resume storage in DB)
-- Deploy backend (Render/Vercel)
-- Publish on Chrome Web Store
+- [ ] Scrape job descriptions directly from portals
+- [ ] Multiple cover letter styles
+- [ ] User accounts + backend (resume storage in DB)
+- [ ] Deploy backend (Render/Vercel)
+- [ ] Publish on Chrome Web Store
 
 ---
 
